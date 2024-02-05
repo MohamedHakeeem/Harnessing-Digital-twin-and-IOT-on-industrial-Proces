@@ -10,6 +10,8 @@ My Project passes with  four important topics  [Maintanances , PLC controling ,S
 2-PLC controlling: Available PLCS that we have them were belonging to LSIS Company and type (DR30SU)  where we had very important challange how to can control system through three  plc and communicate between them and transfer any data from and to the web cloud.
 
 3- Scada System: we builded  Scada system for this hardware by XP_Builder Program and then monitoring the system by the scada and take any action from it  to be done in the system![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/d0953681-4786-435a-99b3-7897a901abd5)
+4- the Communication & IIOT :![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/d0c38c3a-bafa-414f-a644-ca5d39f63602)
+
 
 
 
