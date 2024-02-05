@@ -5,6 +5,7 @@ My graduation  Project is called “Harnessing Digital Twin & IIOT” and aims t
 
 It  passes with  four important topics  [Maintanances, PLC controling, SCADA, and communication & IIOT]
 1-Maintanances: the hardware of my automation system has sensors such as industrial temperature sensors, flow meter sensors, load cell sensor, and taco sensor most of which send signals as current signals in range (4:20 mA)and has actuators such as control valves, radiator, and pumps, stirrer and heater, we had to maintenance most of these actuators  and sensors.
+
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/5403775e-33a3-4e0f-95fd-2ad04167635c)
 
 2- Controlling PLC: The available PLCS that we had them were belonging to LSIS Company and type (DR30SU)  where we had a very important challenge on how to control the system through three plc communicate between them and transfer any data from and to the cloud.
