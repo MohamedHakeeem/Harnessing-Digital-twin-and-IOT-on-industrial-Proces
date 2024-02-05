@@ -32,6 +32,11 @@ the Second Mission: we use esp32 as the bridge between the PLCs and the cloud th
 
 5- Another Future feature that will be achieved on the system in the second term is called "Digital Twin" 
 
+-Finally, I would like to thank my team for their effort in doing  this Strong Project :
+Eng: Ahmed Ebrahim 
+Eng: Mohamed El Sadek
+Eng: Omar Hamdy
+that they  study in the Faculty of Engineering Ain Shams University with me 
 
 
 
