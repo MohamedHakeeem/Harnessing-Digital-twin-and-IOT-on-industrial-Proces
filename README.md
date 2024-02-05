@@ -5,7 +5,7 @@ My Project is called “Harnessing Digital Twin & IIOT” and aims to be a syste
 
 My Project passes with  four important topics  [Maintanances , PLC controling ,Scada and Commmunication & IIOT]
 1-Maintanances: the hardware of my automation system has sensors such as  industrial temperature sensore ,flow meter sensor,load cell sensor and taco sensor  that most of them send signals  as current in range (4:20 mA)and has  actuators such as  control valves , radiatar   and pumps ,stirrer and heater  ,we need to maintanances  most of these actuators  and  sensors .
-![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/983cf5b9-d71e-4992-a594-69833b531b10)
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/5403775e-33a3-4e0f-95fd-2ad04167635c)
 
 
 2-PLC controlling: Available PLCS that we have them were belonging to LSIS Company and type (DR30SU)  where we had very important challange how to can control system through three  plc and communicate between them and transfer any data from and to the web cloud.
