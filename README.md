@@ -4,7 +4,8 @@
 My Project is called “Harnessing Digital Twin & IIOT” and aims to be a system that achieves many topics that are the Future of the time such as the IIOT that makes automation part of the internet for communicating it with other systems easy and efficient, the Digital Twin is considered as one of the important items in the industry 4.0  with usual features as the Scada System, Plc and HMI …
 
 My Project passes with  four important topics  [Maintanances , PLC controling ,Scada and Commmunication & IIOT]
-1-Maintanances: the hardware of my automation system has sensors such as  industrial temperature sensore ,flow meter sensor,load cell sensor and taco sensor  that most of them send signals  as current in range (4:20 mA)and has  actuators such as  control valves , radiatar   and pumps ,stirrer and heater  ,we need to maintanances  most of these actuators  and  sensors .
+1-Maintanances: the hardware of my automation system has sensors such as  industrial temperature sensore ,flow meter sensor,load cell sensor and taco sensor  that most of them send signals  as current in range (4:20 mA)and has  actuators such as  control valves , radiatar   and pumps ,stirrer and heater  ,we need to maintanances  most of these actuators  and  sensors.
+
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/5403775e-33a3-4e0f-95fd-2ad04167635c)
 
 
