@@ -16,7 +16,9 @@ My Project passes with  four important topics  [Maintanances , PLC controling ,S
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/a5e52b7c-9f3d-4f70-b41b-d91810c4c5cc)
 
 
-4- the Communication & IIOT :![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/d0c38c3a-bafa-414f-a644-ca5d39f63602)
+4- the Communication & IIOT : 
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/df418296-8f6c-4711-8ae9-762aebe0993e)
+
 the most acheivement  is that we can make communication between three plcs with each other and esp32 microcontroller that have ability to  connect  with  wifi and then transer data  to cloud and take any actoin from cloud to the esp32 ,  this communnication splits to two strong missions, 
 the First Mission:  we make commincatin between the plcs with each other  between esp32,  we do it through using Modbus RTU protocol  via serial communicatino RS 485 where the esp32 is master modbus rtu by using converter is called "RS485 TTL CONVERTER " ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/52b54482-fa27-4e54-9e59-e015b6fca142)
   that  can request any Slave PLCs  and take responses from them , and then we can take any data from plc or give to any of them data or required action.
