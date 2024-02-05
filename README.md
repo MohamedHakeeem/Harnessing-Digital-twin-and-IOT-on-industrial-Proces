@@ -8,13 +8,11 @@ My Project passes with  four important topics  [Maintanances , PLC controling ,S
 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/5403775e-33a3-4e0f-95fd-2ad04167635c)
 
-
 2-PLC controlling: Available PLCS that we have them were belonging to LSIS Company and type (DR30SU)  where we had very important challange how to can control system through three  plc and communicate between them and transfer any data from and to the web cloud.
 
 3- Scada System: we builded  Scada system for this hardware by XP_Builder Program and then monitoring the system by the scada and take any action from it  to be done in the system
 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/a5e52b7c-9f3d-4f70-b41b-d91810c4c5cc)
-
 
 4- the Communication & IIOT : 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/df418296-8f6c-4711-8ae9-762aebe0993e)
@@ -25,6 +23,9 @@ the First Mission:  we make commincatin between the plcs with each other  betwee
 
 that  can request any Slave PLCs  and take responses from them , and then we can take any data from plc or give to any of them data or required action.
 the Second Mission: we use esp32 as bridge between the plcs and cloud that we handle to it is called Upidots,in this Mission we  use MQTT protocol for publishing and subscribing with cloud that is achieved by "UpidotsEsp32Mqtt" library. 
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/bf5a3ef9-0abb-40bc-b330-ad71db400a4a)   ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/b4db6b95-3255-4d21-85cc-13b940447597)
+
+
 
 5- the Another Future phase will be achieved in the second term called "Digital Twin" 
 
