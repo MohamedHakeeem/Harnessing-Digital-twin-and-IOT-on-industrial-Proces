@@ -7,8 +7,7 @@ My Project passes with  four important topics  [Maintanances , PLC controling ,S
 and has  actuators such as  control valves , radiatar   and pumps ,stirrer and heater  ,we need to maintanances  most of these actuators  and  sensors .
 
 2-PLC controlling: Available PLCS that we have them were belonging to LSIS Company and type (DR30SU)  where we had very important challange how to can control system through three  plc and communicate between them and transfer any data from and to the web cloud.
-3- Scada System: we builded  Scada system for this hardware by XP_Builder Program and then monitoring the system by the scada and take any action from it  to be done in the system ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/9d35cfae-415d-46db-b959-6f5d2566ec8d) 
-
+3- Scada System: we builded  Scada system for this hardware by XP_Builder Program and then monitoring the system by the scada and take any action from it  to be done in the system
 
 
 
