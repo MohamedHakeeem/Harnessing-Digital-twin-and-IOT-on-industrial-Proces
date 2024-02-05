@@ -1,5 +1,6 @@
 # Harnessing-Digital-twin-and-IOT-on-industrial-Proces
-![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/9573ad4d-c43a-4820-b7a0-254a41e56942)
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/645fe325-17a3-4862-9a4b-3897e83b6e4c)
+
 My Project is called “Harnessing Digital Twin & IIOT” and aims to be a system that achieves many topics that are the Future of the time such as the IIOT that makes automation part of the internet for communicating it with other systems easy and efficient, the Digital Twin is considered as one of the important items in the industry 4.0  with usual features as the Scada System, Plc and HMI …
 
 My Project passes with  four important topics  [Maintanances , PLC controling ,Scada and Commmunication & IIOT]
