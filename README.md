@@ -3,8 +3,8 @@
 
 My graduation  Project is called “Harnessing Digital Twin & IIOT” and aims to be a system that achieves many topics that are the Future of the time such as the IIOT that makes automation part of the internet for communicating with other systems easy and efficient, the Digital Twin that is considered as one of the important items in the industry 4.0  with usual features as the Scada System, Plc and HMI …
 
-It  passes with  four important topics  [Maintanances, PLC controling, SCADA, and communication & IIOT]
-1-Maintanances: the hardware of my automation system has sensors such as industrial temperature sensors, flow meter sensors, load cell sensor, and taco sensor most of which send signals as current signals in range (4:20 mA)and has actuators such as control valves, radiator, and pumps, stirrer and heater, we had to maintenance most of these actuators  and sensors.
+It  passes with  five important topics  [Maintanances, PLC controling, SCADA, communication & IIOT, Digital Twin]
+1-Maintanances: the hardware of my automation system has sensors such as industrial temperature sensors, flow meter sensors, load cell sensors, and taco sensors most of which send signals as current signals in range (4:20 mA)and have actuators such as control valves, radiator, and pumps, stirrer, and heater, we had to maintenance most of these actuators and sensors.
 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/5403775e-33a3-4e0f-95fd-2ad04167635c)
 
