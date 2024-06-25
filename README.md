@@ -48,13 +48,12 @@ Finally, I will show some of the Business queries done in Azure Data Explorer
 
 
 
-
-
--Finally, I would like to thank my team for their effort in doing  this Strong Project :
+-In the end, I would like to thank my team project for their effort in doing this great Project :
 Eng: Ahmed Ebrahim 
 Eng: Mohamed El Sadek
 Eng: Omar Hamdy
-that they  study in the Faculty of Engineering Ain Shams University with me 
+
+
 
 
 
