@@ -42,8 +42,8 @@ After achieving this communication. we can upload the DTDL model of our system i
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/a8299c69-dbd8-42be-b608-bdf642257339)
 
 
-
-
+Finally, I will show some of the Business queries done in Azure Data Explorer
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/e877e2c0-e8c1-416f-936a-e637101fab93)
 
 
 
