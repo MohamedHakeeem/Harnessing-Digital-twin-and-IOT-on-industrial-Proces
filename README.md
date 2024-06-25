@@ -45,14 +45,14 @@ After achieving this communication. we can upload the DTDL model of our system i
 Finally, I will show some of the Business queries done in Azure Data Explorer
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/e877e2c0-e8c1-416f-936a-e637101fab93)
 
-------------------------------------------------------------------------------------------------------Video of Graduation Project------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------Video of Graduation Project----------------------------------------------------------------------------------------------------------------
 https://engasuedu-my.sharepoint.com/:v:/r/personal/1900218_eng_asu_edu_eg/Documents/Graduation%20project%202024/Project_Video.mp4?csf=1&web=1&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=DkM9tZ
 
 
--In the end, I would like to thank my team project for their effort in doing this great Project :
-Eng: Ahmed Ebrahim 
-Eng: Mohamed El Sadek
-Eng: Omar Hamdy
+-In The End, I would like to thank my team project for their effort in doing this great Project :
+|||| Eng: Ahmed Ebrahim  ||||
+|||| Eng: Mohamed El Sadek ||||
+|||| Eng: Omar Hamdy ||||
 
 
 
