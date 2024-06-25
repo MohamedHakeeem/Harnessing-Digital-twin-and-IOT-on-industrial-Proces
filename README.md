@@ -31,7 +31,21 @@ the Second Mission: we use esp32 as the bridge between the PLCs and the cloud th
 
 
 
-5- Another Future feature that will be achieved on the system in the second term is called "Digital Twin" 
+5- Digital Twin:
+We  Built a Digital Twin for our system and used Microsoft Azure Portal for this mission. First, we also use two software tools,  Arduino Ide for burning the suitable code on an esp32 board, and Microsoft Visual Studio for building the Azure function that is responsible for linking the Azure IOT hub with the Azure Digital twin service that they are available on the Azure portal, In this part, we could monitor and visualize my real system in parallel on azure digital twin as 3d visualize or as 2d view and by using Azure data explorer service did querying on  historical data,  mathematical analyses, plotting of data in the range of a certain time, It does not stop there, but extends to do  predictive maintenance on the data in this service, and more can be done by it.
+
+The below diagram demonstrates how to communicate the hardware level of the system with the Azure portal down to Azure Digital Twin.
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/dddc2e32-ab91-4f5e-a1eb-68dd709833ee)
+
+
+
+
+
+
+
+
+
+
 
 -Finally, I would like to thank my team for their effort in doing  this Strong Project :
 Eng: Ahmed Ebrahim 
