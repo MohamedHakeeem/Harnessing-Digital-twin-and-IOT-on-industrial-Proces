@@ -26,8 +26,8 @@ the First Mission:  we make communication between the PLCs with each other  betw
 that can request from any Slaves as PLCS  and take responses from them, and then we can take any data from PLC or give any the data or required action to it.
 the Second Mission: we use esp32 as the bridge between the PLCs and the cloud that we handle called Upidots, in this Mission we use MQTT protocol for publishing and subscribing with the cloud is achieved by the "UpidotsEsp32Mqtt" library. 
 
-![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/bf5a3ef9-0abb-40bc-b330-ad71db400a4a)  
-![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/b4db6b95-3255-4d21-85cc-13b940447597)
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/e7858955-991f-4b44-88be-067d5608c678)
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/77c1dd18-8a06-4928-952d-a825801cf7a0)
 
 
 
