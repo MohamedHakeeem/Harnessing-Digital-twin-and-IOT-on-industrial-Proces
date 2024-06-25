@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DigitalHUBTwin", "DigitalHUBTwin.csproj", "{229D7474-EF88-418E-B081-93CE09E70611}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{229D7474-EF88-418E-B081-93CE09E70611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{229D7474-EF88-418E-B081-93CE09E70611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{229D7474-EF88-418E-B081-93CE09E70611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{229D7474-EF88-418E-B081-93CE09E70611}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD1811F-F922-4084-8D33-86A55DBCFA20}
+	EndGlobalSection
+EndGlobal
