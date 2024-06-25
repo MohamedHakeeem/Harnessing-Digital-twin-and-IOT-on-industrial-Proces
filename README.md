@@ -37,6 +37,9 @@ We  Built a Digital Twin for our system and used Microsoft Azure Portal for this
 The below diagram demonstrates how to communicate the hardware level of the system with the Azure portal down to Azure Digital Twin.
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/dddc2e32-ab91-4f5e-a1eb-68dd709833ee)
 
+After achieving this communication. we can upload the DTDL model of our system in 2d view as twin graphs, and upload our system with extension .glb  in 3d visualization,  now I will show some of the cases from our system.
+![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/49fa895d-8b14-4f0a-84d1-02f4dc92df1f)
+
 
 
 
