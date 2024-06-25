@@ -8,9 +8,10 @@ It  passes with  five important topics  [Maintanances, PLC controling, SCADA, co
 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/25422bae-fc36-404c-9808-6045c18e76a4)
 
-2- Controlling PLC: The available PLCS that we had them were belonging to LSIS Company and type (DR30SU)  where we had a very important challenge on how to control the system through three plc communicate between them and transfer any data from and to the cloud.
+2- Controlling PLC: The available PLCS that we had belonged to LSIS Company and type (DR30SU)  where we had a significant challenge on how to control the system through three plc communicate between them and transfer any data from and to the cloud.
 
-3- Scada System: we built a SCADA system for this hardware using XP_Builder Program and then monitoring the system by the Scada and taking any action from it  to be done in the system
+
+3- Scada System: we built a SCADA system for this hardware using the XP_Builder Program and then monitored the system by the Scada and took any action from it  to be done in the system.
 
 ![image](https://github.com/MohamedHakeeem/Harnessing-Digital-twin-and-IOT-on-industrial-Proces/assets/142861162/a5e52b7c-9f3d-4f70-b41b-d91810c4c5cc)
 
