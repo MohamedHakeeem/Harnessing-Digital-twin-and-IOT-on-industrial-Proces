@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:example:PumpB;1",
+  "@type": "Interface",
+  "displayName": "PumpB",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:Radiator;1"
+    },
+    {
+      "@type": "Property",
+      "name": "Pump2",
+      "schema": "double"
+    }
+  ]
+}

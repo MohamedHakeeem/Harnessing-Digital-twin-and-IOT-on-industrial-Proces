@@ -1,0 +1,21 @@
+{
+  "@id": "dtmi:example:SubTank;1",
+  "@type": "Interface",
+  "displayName": "SubTank",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:ControlValveB;1"
+    },
+
+    {
+      "@type": "Property",
+      "name": "WT1_PLC2",
+      "schema": "double"
+    }
+  ]
+}
+

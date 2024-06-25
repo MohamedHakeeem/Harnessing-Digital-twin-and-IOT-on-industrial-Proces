@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:example:Structure;1",
+  "@type": "Interface",
+  "displayName": "Structure",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:MainTank;1"
+    }
+  ]
+}

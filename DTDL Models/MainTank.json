@@ -1,0 +1,41 @@
+{
+  "@id": "dtmi:example:MainTank;1",
+  "@type": "Interface",
+  "displayName": "MainTank",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:PumpA;1"
+    },
+
+    {
+      "@type": "Property",
+      "name": "TT1_PLC1",
+      "schema": "double"
+    },
+    {
+      "@type": "Property",
+      "name": "TT2_PLC3",
+      "schema": "double"
+    },
+    {
+      "@type": "Property",
+      "name": "Stirrer",
+      "schema": "double"
+    },
+    {
+      "@type": "Property",
+      "name": "J1",
+      "schema": "double"
+    }
+
+
+  ]
+}
+
+
+ 

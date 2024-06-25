@@ -1,0 +1,24 @@
+{
+  "@id": "dtmi:example:PressureTransmitterA;1",
+  "@type": "Interface",
+  "displayName": "PressureTransmitterA",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:ControlValveA;1"
+    },  
+    
+    {
+      "@type": "Property",
+      "name": "FT1_PLC2",
+      "schema": "double"
+
+    }
+
+  ]
+}
+

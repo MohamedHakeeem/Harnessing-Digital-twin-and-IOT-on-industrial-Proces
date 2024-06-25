@@ -1,0 +1,14 @@
+{
+  "@id": "dtmi:example:Radiator;1",
+  "@type": "Interface",
+  "displayName": "Radiator",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Property",
+      "name": "Fan",
+      "schema": "double"
+    }
+  ]
+}
+

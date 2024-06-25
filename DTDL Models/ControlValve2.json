@@ -1,0 +1,19 @@
+{
+  "@id": "dtmi:example:ControlValveB;1",
+  "@type": "Interface",
+  "displayName": "ControlValveB",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:PumpB;1"
+    },
+    {
+      "@type": "Property",
+      "name": "LC1",
+      "schema": "double"
+    }
+  ]
+}

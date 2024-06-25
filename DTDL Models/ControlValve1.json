@@ -1,0 +1,21 @@
+
+{
+  "@id": "dtmi:example:ControlValveA;1",
+  "@type": "Interface",
+  "displayName": "ControlValveA",
+  "@context": "dtmi:dtdl:context;2",
+  "contents": [
+    {
+      "@type": "Relationship",
+      "name": "contains",
+      "displayName": "contains",
+      "target": "dtmi:example:SubTank;1"
+    },
+    {
+      "@type": "Property",
+      "name": "FC1",
+      "schema": "double"
+    }
+
+  ]
+}
